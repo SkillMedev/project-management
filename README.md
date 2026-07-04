@@ -22,9 +22,9 @@ Wire Claude directly into the tools your team plans in. This pack pairs official
 - **[monday.com MCP](https://github.com/mondaycom/mcp)** — Connect Claude to monday.com's official MCP server to manage boards, items, and workflows via OAuth. _(external — see source)_
 - **[Airtable MCP](https://github.com/domdomegg/airtable-mcp-server)** — Connect Claude to Airtable bases to read/write records, search, and inspect or edit schema. _(external — see source)_
 - **[Trello MCP](https://github.com/delorenj/mcp-server-trello)** — Connect Claude to Trello boards, lists, cards, checklists, and comments. _(external — see source)_
-- **[Jira Ticket Writer](skills/jira-ticket-writer/SKILL.md)** — Writes Jira stories with clear acceptance criteria, subtasks, and story point guidance.
-- **[Linear Workflow](skills/linear-workflow/SKILL.md)** — Sets up Linear teams with proper cycle structure, labels, SLAs, and triage workflows.
-- **[Notion Database Designer](skills/notion-database/SKILL.md)** — Designs Notion databases with proper property types, views, and relation structures.
+- **[Jira Ticket Writer](skills/jira-ticket-writer/SKILL.md)** — Writes ready-to-build Jira stories with user-story summaries, Given/When/Then acceptance criteria, subtasks, and story-point guidance, checked against INVEST and a Definition of Ready.
+- **[Linear Workflow](skills/linear-workflow/SKILL.md)** — Configures a Linear team end to end — team structure, minimal workflow states, cycles, a small label taxonomy, a daily triage rotation, and priority SLAs with breach views.
+- **[Notion Database Designer](skills/notion-database/SKILL.md)** — Designs Notion databases that scale — one entity per database, deliberate property types, two-way relations with rollups, audience-specific views, and row templates — with explicit decision rules for relation vs rollup vs formula.
 
 ## License
 
