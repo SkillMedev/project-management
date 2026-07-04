@@ -9,7 +9,7 @@ Wire Claude directly into the tools your team plans in. This pack pairs official
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/project-management](https://skillme.dev/pack/project-management) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/project-management`
+- **With the skills CLI:** `npx skills add SkillMedev/project-management`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
